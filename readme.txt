@@ -25,9 +25,8 @@ Visit http://websensepro.com/custom-social-icons for more information
 
 == Frequently Asked Questions ==
 
-= Ques : How use this plugins? =
-Ans : 
-Use this shortcode for page/post [ws-social-icon], for php code use this template tag <?php if ( function_exists('ws_social_icon') ) echo ws_social_icon();?>
+Question : How use this plugins?
+Ans : Use this shortcode for page/post [ws-social-icon], for php code use this template tag <?php if ( function_exists('ws_social_icon') ) echo ws_social_icon();?>
 
 Also you can use the widget for the sidebar.
 
