@@ -8,8 +8,6 @@ Stable tag: 1.0
 
 Easily upload your own social icon, set your social URL in vertical and horizontal style, no need to code no technical knowledge required.
 
-For complete demo visit http://websensepro.com/custom-social-icons
-
 == Description ==
 
 You can upload your own social icon, set your social URL, choose weather you want to display vertical or horizontal. You can use the shortcode [ws-social-icon] in page/post, template tag for php file <?php if ( function_exists('ws_social_icon') ) echo ws_social_icon(); ?> also you can use the widget "Custom Social Icons" for sidebar.
